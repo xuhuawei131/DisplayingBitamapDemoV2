@@ -1,0 +1,48 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.displayingbitamapdemov2"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:9:5-47
+8        android:minSdkVersion="8"
+8-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:9:5-47
+9        android:targetSdkVersion="21" />
+9-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:9:15-44
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:7:5-67
+11-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:7:22-64
+12
+13    <application
+13-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:11:5-25:19
+14        android:allowBackup="true"
+14-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:12:9-35
+15        android:debuggable="true"
+16        android:icon="@drawable/ic_launcher"
+16-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:13:9-45
+17        android:label="@string/app_name"
+17-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:14:9-41
+18        android:theme="@style/AppTheme" >
+18-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:15:9-40
+19        <activity
+19-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:16:9-24:20
+20            android:name="com.example.displayingbitamapdemov2.MainActivity"
+20-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:17:13-41
+21            android:label="@string/app_name" >
+21-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:18:13-45
+22            <intent-filter>
+22-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:19:13-23:29
+23                <action android:name="android.intent.action.MAIN" />
+23-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:20:17-69
+23-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:20:25-66
+24
+25                <category android:name="android.intent.category.LAUNCHER" />
+25-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:22:17-77
+25-->/Users/xuhuawei/XuHuaWei/AndroidWS/DisplayingBitamapDemoV2/app/src/main/AndroidManifest.xml:22:27-74
+26            </intent-filter>
+27        </activity>
+28    </application>
+29
+30</manifest>
